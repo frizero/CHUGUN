@@ -44,16 +44,6 @@
       "title": "INSURANCE",
       "id": 11
     },
-    "4": {
-      "title": "sdfasdfasdfasdfasdfasdfasd",
-      "id": 13,
-      "ideas": {
-        "1": {
-          "title": "asdfasdfasdf",
-          "id": 14
-        }
-      }
-    },
     "-1": {
       "title": "CREDIT",
       "id": 9
@@ -61,10 +51,6 @@
     "-2": {
       "title": "WIRE TRANSFERS",
       "id": 10
-    },
-    "-3": {
-      "title": "sdfSDFSDf",
-      "id": 12
     }
   }
 }
