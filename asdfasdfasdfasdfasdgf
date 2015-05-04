@@ -1,0 +1,65 @@
+{
+  "title": "ORGANIZATION OF CHUGUN.BG",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "REGISTRATION EORI NR.",
+      "id": 2
+    },
+    "2": {
+      "title": "OFFICE FURNITURE",
+      "id": 4
+    },
+    "3": {
+      "title": "OFFICE INTERNET",
+      "id": 6
+    },
+    "4": {
+      "title": "CASH REGISTER",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "DEYAN, KOMAVTO, 0898259419",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "SUPPORT CONTRACT 75 BGN",
+              "id": 12
+            },
+            "2": {
+              "title": "DAISY 240 BGN",
+              "id": 14
+            }
+          }
+        },
+        "2": {
+          "title": "ZHULIETA TOCHEVA (PRI VASILIJ) 9718413",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "SUPPORT CONTRACT 70BGN",
+              "id": 11
+            },
+            "2": {
+              "title": "CASH REGISTERS FROM 220BGN - 240 BGN",
+              "id": 13
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "REGISTRATION VAT",
+      "id": 3
+    },
+    "-2": {
+      "title": "OFFICE ELECTRIC METER",
+      "id": 5
+    },
+    "-3": {
+      "title": "WEBSITE",
+      "id": 7
+    }
+  }
+}
