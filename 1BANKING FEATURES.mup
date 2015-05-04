@@ -1,0 +1,56 @@
+{
+  "title": "BANKING FEATURES",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "MONEY IN/OUT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "DEPOSITS",
+          "id": 3
+        },
+        "2": {
+          "title": "WITHDRAWALS",
+          "id": 4
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "POS",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "PHYSICAL POS",
+          "id": 8,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "VIRTUAL POS",
+          "id": 5,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "INSURANCE",
+      "id": 11
+    },
+    "-1": {
+      "title": "CREDIT",
+      "id": 9
+    },
+    "-2": {
+      "title": "WIRE TRANSFERS",
+      "id": 10
+    }
+  }
+}
